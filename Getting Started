@@ -1,0 +1,6 @@
+Follow the steps below to start using the solution:
+
+1. **Identify the reCaptcha Version**: Use the CapSolver browser extension to determine the reCaptcha version and parameters.
+2. **Solve the reCaptcha**: Use the provided JSON structure with the CapSolver API to solve the reCaptcha.
+3. **Retrieve the Result**: Fetch the solution using the taskId returned by the createTask method.
+
